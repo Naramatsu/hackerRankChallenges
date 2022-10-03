@@ -1,4 +1,4 @@
-function plusMinus(arr) {
+export function plusMinus(arr) {
   let positives = 0;
   let negatives = 0;
   let zeros = 0;
